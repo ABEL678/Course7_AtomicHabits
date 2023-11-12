@@ -95,6 +95,7 @@ DATABASES = {
         'USER': os.getenv('DATABASES_USER'),
         'PASSWORD': os.getenv('DATABASES_PASSWORD'),
         'HOST': '127.0.0.1',
+
     }
 }
 
